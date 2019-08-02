@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/work/!svn/ver/130/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/service
+END
+IFunctionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/service/IFunctionService.java
+END
+ICompanyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/work/!svn/ver/130/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/service/ICompanyService.java
+END
+IRoleQxService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/service/IRoleQxService.java
+END
+IRoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/service/IRoleService.java
+END
+IUserServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/service/IUserServices.java
+END
+IMFunctionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/service/IMFunctionService.java
+END
+IMenuService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/service/IMenuService.java
+END

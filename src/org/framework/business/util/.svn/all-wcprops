@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util
+END
+MailSenderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/MailSenderInfo.java
+END
+MyMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/MyMath.java
+END
+GenerateRandomNumberUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/GenerateRandomNumberUtil.java
+END
+JsonDateValueProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/JsonDateValueProcessor.java
+END
+DateJsonValueProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/DateJsonValueProcessor.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/StringUtil.java
+END
+MenuName.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/MenuName.java
+END
+JsonUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/JsonUtil.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/Configuration.java
+END
+PageList.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/PageList.java
+END
+PageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/PageUtil.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/DateUtil.java
+END
+QrcodeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/QrcodeUtil.java
+END
+HttpClientUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/HttpClientUtil.java
+END
+TwoDimensionCodeImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/TwoDimensionCodeImage.java
+END
+MyAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/MyAuthenticator.java
+END
+MailSenderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/MailSenderUtil.java
+END
+UploadFileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/UploadFileUtil.java
+END
+ResponseAlertUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/ResponseAlertUtil.java
+END
+ImageBinaryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/ImageBinaryUtil.java
+END
+ImageResizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/ImageResizer.java
+END
+SocketClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/SocketClient.java
+END
+DecriptUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/DecriptUtil.java
+END
+ImportExcelUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/ImportExcelUtil.java
+END
+SessionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/SessionFilter.java
+END
+Md5Encrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/Md5Encrypt.java
+END
+JsoupUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/JsoupUtil.java
+END
+ExcelUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/util/ExcelUtil.java
+END

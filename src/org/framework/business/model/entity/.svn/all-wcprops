@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/work/!svn/ver/130/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity
+END
+Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/work/!svn/ver/129/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/Device.java
+END
+DeviceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/work/!svn/ver/129/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/DeviceType.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/Role.java
+END
+DeviceModelEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/work/!svn/ver/129/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/DeviceModelEntry.java
+END
+Mfunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/Mfunction.java
+END
+DeviceOta.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/work/!svn/ver/129/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/DeviceOta.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/Menu.java
+END
+Company.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/Company.java
+END
+Member.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/work/!svn/ver/129/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/Member.java
+END
+OperLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/OperLog.java
+END
+SystemConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/work/!svn/ver/129/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/SystemConfig.java
+END
+RoleQx.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/RoleQx.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/work/!svn/ver/130/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/User.java
+END
+DeviceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/work/!svn/ver/129/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/DeviceModel.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/entity/Function.java
+END

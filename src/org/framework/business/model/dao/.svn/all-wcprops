@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/dao
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/dao/UserDao.java
+END
+RoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/dao/RoleDao.java
+END
+MfunctionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/dao/MfunctionDao.java
+END
+MenuDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/dao/MenuDao.java
+END
+FunctionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/dao/FunctionDao.java
+END
+CompanyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/dao/CompanyDao.java
+END
+OperLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/dao/OperLogDao.java
+END
+RoleQxDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/work/!svn/ver/127/%E7%83%AD%E6%B0%B4%E5%A3%B6/reshuihu/src/org/framework/business/model/dao/RoleQxDao.java
+END

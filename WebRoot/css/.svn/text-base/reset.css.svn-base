@@ -1,0 +1,122 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+tr {
+	width: 100%;
+	text-align: center;
+}
+
+
+/*commont.css*/
+body {
+	margin: 0 auto;
+	min-width: 320px;
+	/* max-width: 540px; */
+	font-family: "Helvetica Neue LT Pro", "Helvetica", "microsoft yahei", "Hiragino Sans GB W3";
+	font-size: 15px;
+	color: #666;
+	background: #fff;
+}
+input, img, select {
+	vertical-align: middle;
+	border: none;
+}
+input[type="text"],
+input[type="tel"],
+input[type="password"],
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+input[type="number"] {
+	-webkit-appearance: none;
+}
+sumbit {
+	list-style: none;
+	border: none
+	display: none;
+}
+a {
+	color: #666;
+	text-decoration: none;
+}
+
+/* 清除点击虚拟框 */
+a, div, p, span, ul, li, i, img, input, select {
+	outline: 0;
+	text-decoration: none;
+	-webkit-tap-highlight-color: transparent;
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	height: 0px;
+	visibility: hidden;
+}
+.clear {
+	clear: both;
+}
+.float-left {
+	float: left;
+}
+.float-right {
+	float: right;
+}
+.flex-body {
+	display: -webkit-flex;  /* 新版本语法: Chrome 21+ */
+    display: flex;          /* 新版本语法: Opera 12.1, Firefox 22+ */
+    display: -ms-flexbox;   /* 混合版本语法: IE 10 */
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+/*移除number箭头*/
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none !important;
+    margin: 0; 
+}
+input[type="number"] {
+	-moz-appearance:textfield;
+}
